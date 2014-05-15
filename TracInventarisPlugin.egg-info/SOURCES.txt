@@ -1,7 +1,0 @@
-setup.py
-TracInventarisPlugin.egg-info/PKG-INFO
-TracInventarisPlugin.egg-info/SOURCES.txt
-TracInventarisPlugin.egg-info/dependency_links.txt
-TracInventarisPlugin.egg-info/entry_points.txt
-TracInventarisPlugin.egg-info/requires.txt
-TracInventarisPlugin.egg-info/top_level.txt
